@@ -1,0 +1,25 @@
+assigment(대입, 할당 : 우측 수식의 연산 결과를 왼쪽의 변수에 대입)
+variable + expression
+			literal or constant	a + 1
+			variable			a = b	
+			operator			a = b + 1
+			function			a = sum(1, 2) * a + 1
+				(variable, literal, operator, function)
+
+< <= >= == != in not is is not
+not and or
+
+if ():
+	pass
+else : 
+	print("")
+함수 이름만 정의하고 공백으로 남겨놓고 싶으면 pass입력
+
+
+1. if
+2. if ~ else
+3. if ~ elif ~ elif ~ . . . ~ else
+
+제어문
+선택문 : if, mayvh~case
+반복문 : for, wiile,( do whi;e)
